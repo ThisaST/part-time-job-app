@@ -1,0 +1,3 @@
+rootProject.name = 'PartTimeApplication'
+
+include ':app'
